@@ -41,6 +41,6 @@
 
 <h3 align="left">Github stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuli-ferna&theme=omni" alt="yuli-ferna" /></p>
-
 [![Yuliana's GitHub stats](https://github-readme-stats-phi-jade-14.vercel.app/api?username=yuli-ferna&theme=omni&show_icons=true&&show=reviews,prs_merged&hide=stars)]()
+
+[![GitHub Streak](https://github-readme-streak-stats-lilac-two.vercel.app?user=yuli-ferna&theme=omni)](https://git.io/streak-stats)
